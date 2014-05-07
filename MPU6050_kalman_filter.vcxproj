@@ -79,6 +79,11 @@
     </ClInclude>
     <ClInclude Include="Visual Micro\.MPU6050_kalman_filter.vsarduino.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Changelog.txt" />
+    <Text Include="Readme.txt" />
+    <Text Include="Todo.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

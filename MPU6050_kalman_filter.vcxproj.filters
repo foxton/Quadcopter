@@ -26,4 +26,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Todo.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="Readme.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="Changelog.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
