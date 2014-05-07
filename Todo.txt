@@ -1,0 +1,4 @@
+V0.15
+Engines react too fast when quadcopter is tilting
+-Change engine variable from int do double
+ 
