@@ -1,5 +1,8 @@
 V.0.01
 -------
-Quadcopter reads the gyro.
-Some crude stabilizing code
-Added code for taking off.
+-Quadcopter reads the gyro.
+-Added code for starting the engines.
+-Some crude stabilizing code.
+-Added some code for lifting 
+(Don't use this until stabilizing code works)
+-Writes tilting angles in serial monitor 
