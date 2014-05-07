@@ -1,0 +1,5 @@
+V.0.01
+-------
+Quadcopter reads the gyro.
+Some crude stabilizing code
+Added code for taking off.
