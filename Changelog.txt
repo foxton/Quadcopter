@@ -6,3 +6,8 @@ V.0.01
 -Added some code for lifting 
 (Don't use this until stabilizing code works)
 -Writes tilting angles in serial monitor 
+
+V.0.15
+-Changed engine variable from int do double
+-Added a PID regulator (not tuned)
+-Changed from Xcopter to Quadcopter layout.
