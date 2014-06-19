@@ -1,5 +1,8 @@
-V0.15
-Engines react too fast when quadcopter is tilting
--Change engine variable from int do double
+V0.2
+-Tune PID regulator
+
+Future Changes
+-Gyro calibration code
 -Add a bluetooth transmitter for sending the tilt angles
- and engine speed. 
+ and engine speed.
+-Add Code for take off.
